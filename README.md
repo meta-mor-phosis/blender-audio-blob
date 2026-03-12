@@ -21,3 +21,5 @@ Energy → Y-axis spikes
 2. Go to the scripting workspace
 3. Run `scripts/sound_blob.py`
 4. Play audio or speak into microphone
+   ## Demo Video
+   https://github.com/meta-mor-phosis/blender-audio-blob/blob/main/demo.mp4
